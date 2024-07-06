@@ -1,0 +1,25 @@
+label{
+    display: flex;
+    margin: 5px 0;
+    font-size: 17px;
+}
+input{
+    border: 1px solid #dedede;
+    border-radius: 5px;
+    padding: 3px 7px;
+    font-size: 17px;
+    width: 100%;
+}
+input:focus{
+    outline: none;
+}
+.btn{
+    display: block;
+    width: 100%;
+    margin: 10px 0;
+    background: purple;
+    color: white;
+    padding: 8px;
+    cursor: pointer;
+    font-size: 17px;
+}
